@@ -226,10 +226,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 Se encontrar algum problema ou tiver dúvidas:
 
-1. Verifique a [documentação completa](STATUS_SISTEMA.md)
-2. Consulte as [novas funcionalidades](NOVAS_FUNCIONALIDADES.md)
-3. Veja as [melhorias de IDs](MELHORIA_IDS.md)
-4. Abra uma [issue](https://github.com/seu-usuario/sistema-gestao-projetos-cv/issues)
+ Abra uma [issue](https://github.com/seu-usuario/sistema-gestao-projetos-cv/issues)
 
 ---
 
